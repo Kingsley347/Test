@@ -25,6 +25,18 @@ p {
            opacity: 100%;
            border-radius: 15px 50px;
      }
+nav {
+           position: fixed;
+           left: 0;
+           right: 0;
+           top: 0;
+           text-align: center;
+           background-color: #f6b7b79f;
+           border-radius: 25px;
+           margin: -13px -40px -10px -40px;
+           color: rgb(20, 15, 15);
+           font-family: 'Crimson Text', serif;
+}
 .HOME {
            background-color: rgba(255, 0, 0, 0.24);
            background-size:cover;
@@ -49,6 +61,10 @@ p {
    margin: 0px -50px;
 }
 footer {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
       text-align: center;
       background-color: #f6b7b79f;
       border-radius: 25px;
