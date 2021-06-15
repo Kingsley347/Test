@@ -36,14 +36,14 @@ nav {
            font-family: 'Crimson Text', serif;
 }
 .HOME {
-           background-color: rgba(255, 0, 0, 0.24);
+           background-color: rgba(255, 0, 0, 0.15);
            background-size:cover;
            padding: 50px;
            margin: 0px -50px;
 }
 
 .ABOUT {
-         background-color: rgba(255, 0, 0, 0.24);
+         background-color: rgba(255, 0, 0, 0.15);
          background-size:cover;
          padding: 50px;
          margin: 0px -50px;
@@ -54,7 +54,7 @@ nav {
 }
 
 .LETTER {
-   background-color: rgba(255, 0, 0, 0.24);
+   background-color: rgba(255, 0, 0, 0.15);
    background-size:cover;
    padding: 50px;
    margin: 0px -50px;
